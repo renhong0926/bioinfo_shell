@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Bash Shell Scripting in Bioinformatics"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: bash-shell.qmd
+        text: Bash Shell
+
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    toc-location: right
+    number-sections: true
+    code-fold: true
+    code-copy: true
+    code-overflow: scroll
+    page-layout: full
+    theme: cosmo
+
+execute:
+  echo: true
+  warning: false
+  message: false

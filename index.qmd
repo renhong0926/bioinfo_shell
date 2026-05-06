@@ -1,0 +1,10 @@
+---
+title: "Technical Notes of Bash Shell Scripting in Bioinformatics"
+description: "Technical notes on application of Bash Shell Scripting in reproducible bioinformatics workflows."
+---
+
+A serial of technical notes on application of Bash Shell Scripting in bioinformatics research. 
+
+## Articles
+
+- [A Bash Shell Scripting Guide for Bioinformatics Researchers](bash-shell.qmd)
